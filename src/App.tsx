@@ -1,8 +1,10 @@
 import AvatarStack from './components/AvatarStack'
+import  OtpInput from './components/OtpInput'
 const App = () => {
   return (
     <div className=''>
-      <AvatarStack/>
+      {/* <AvatarStack/> */}
+      <OtpInput/>
     </div>
   )
 }
