@@ -26,3 +26,10 @@ export const content = [{
  }
 
 ];
+
+export const papers = [
+  { id: 1, name: "Research Paper", color: "bg-blue-100", textColor: "text-blue-800" },
+  { id: 2, name: "Analysis Report", color: "bg-green-100", textColor: "text-green-800" },
+  { id: 3, name: "Case Study", color: "bg-purple-100", textColor: "text-purple-800" },
+  { id: 4, name: "Summary", color: "bg-red-100", textColor: "text-red-800" },
+];
