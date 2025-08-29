@@ -33,3 +33,9 @@ export const papers = [
   { id: 3, name: "Case Study", color: "bg-purple-100", textColor: "text-purple-800" },
   { id: 4, name: "Summary", color: "bg-red-100", textColor: "text-red-800" },
 ];
+
+export const steps = [
+  { id: 1, label: "Enter your name", type: "text" },
+  { id: 2, label: "Enter your email", type: "email" },
+  { id: 3, label: "Enter your password", type: "password" },
+];
