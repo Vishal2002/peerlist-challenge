@@ -3,6 +3,7 @@ import Folder from './components/Folder'
 import  OtpInput from './components/OtpInput'
 import PageTransition from './components/PageTransition'
 import ProgressiveInput from './components/ProgressiveInput'
+import WarpOverlay from './components/WarpOverlay'
 const App = () => {
   return (
     <div className=''>
@@ -10,7 +11,9 @@ const App = () => {
       {/* <OtpInput/> */}
       {/* <PageTransition/> */}
       {/* <Folder/> */}
-      <ProgressiveInput/>
+      {/* <ProgressiveInput/> */}
+      <WarpOverlay/>
+      
 
 
       
